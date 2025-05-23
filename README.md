@@ -1,1 +1,1 @@
-# my_loongtex_20250523
+from LoongTeX
